@@ -12,8 +12,7 @@ A simple Python-based TCP port scanner that allows you to scan one or more targe
 - [Usage](#usage)
 - [Options](#options)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Purpose](#purpose)
 
 ## Features
 
