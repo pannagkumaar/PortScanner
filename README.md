@@ -52,7 +52,7 @@ These libraries and tools are used to create a robust and efficient port scannin
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/port-scanner.git
+   git clone https://github.com/pannagkumaar/PortScanner.git
   
 2. Navigate to the project directory:
    ```shell  
